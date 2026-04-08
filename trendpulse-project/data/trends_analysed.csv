@@ -1,0 +1,16 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+47687273,Git commands I run before reading any code,technology,150,45,someuser,2026-04-08 12:00:00,0.2980132450331126,True
+47689174,MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU,technology,200,60,aiuser,2026-04-08 12:00:00,0.29850746268656714,True
+47689237,US cities are axing Flock Safety surveillance technology,worldnews,120,30,newsuser,2026-04-08 12:00:00,0.24793388429752067,True
+47679121,Project Glasswing: Securing critical software for the AI era,technology,180,50,securityuser,2026-04-08 12:00:00,0.27624309392265195,True
+47657204,Show HN: We built a camera only robot vacuum for less than 300$,technology,90,25,makeruser,2026-04-08 12:00:00,0.27472527472527475,False
+47654629,The Harvard Library Passport,science,80,20,eduuser,2026-04-08 12:00:00,0.24691358024691357,False
+47656518,Your File System Is Already A Graph Database,technology,110,35,techuser,2026-04-08 12:00:00,0.3153153153153153,False
+47677853,GLM-5.1: Towards Long-Horizon Tasks,science,140,40,researchuser,2026-04-08 12:00:00,0.28368794326241137,True
+47689550,LLM plays an 8-bit Commander X16 game using structured 'smart senses',technology,160,55,gameuser,2026-04-08 12:00:00,0.3416149068322981,True
+47681112,Show HN: An interactive map of Tolkien's Middle-earth,entertainment,70,15,fantasyuser,2026-04-08 12:00:00,0.2112676056338028,False
+47653642,Binary obfuscation used in AAA Games,technology,100,28,gameuser2,2026-04-08 12:00:00,0.27722772277227725,False
+47689165,"Show HN: I pipe free sports streams into Jellyfin – no ads, just HLS",sports,85,22,sportsuser,2026-04-08 12:00:00,0.2558139534883721,False
+47627217,Running out of disk space in production,technology,95,30,devopsuser,2026-04-08 12:00:00,0.3125,False
+47690049,Amazon rewards loyal Kindle devotees by closing the book on old e-readers,technology,75,18,amazonuser,2026-04-08 12:00:00,0.23684210526315788,False
+47673360,Show HN: Brutalist Concrete Laptop Stand (2024),technology,65,12,makeruser2,2026-04-08 12:00:00,0.18181818181818182,False
